@@ -1,9 +1,9 @@
 # Curso react para iniciante:
 
-##Introdução
+## Introdução
 Projeto realizado durando o curso de react para iniciantes utilizando CodeSandbox
 
-##Descrição do projeto
+## Descrição do projeto
 
 O projeto se trata de um quadro Kanban digital, feito utilizando React, onde é possivel adicionar e remover tarefas,
 e aterar entre os tópicos de "Pendentes", "Fazendo" e "Completo".
